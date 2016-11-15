@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 array = [12, 5, 13, 8, 9, 65]
 
 
@@ -14,4 +16,4 @@ def bubble(bad_list):
 
 
 bubble(array)
-print array
+print(array)
