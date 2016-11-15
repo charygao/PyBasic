@@ -8,4 +8,3 @@ for num in range(10):
     # 点菜
     foods = [random.randint(1, 30) for _ in range(10)]
     print(guests + foods)
-
