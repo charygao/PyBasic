@@ -89,3 +89,9 @@ ENV/
 .ropeproject
 将删除 .idea/
 将删除 docs/
+.idea/
+PyBasic/Basic_1/ssh2/192.168.31.101/
+PyBasic/Basic_1/ssh2/192.168.31.102/
+PyBasic/Basic_2/Docs/
+docs/
+python/
